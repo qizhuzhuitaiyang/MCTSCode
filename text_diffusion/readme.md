@@ -63,10 +63,7 @@ python test_embedding_v2_complete.py
 4. 划分训练/验证/测试集（70%/15%/15%）
 5. 保存预处理后的数据
 
-#### 方法 A: 使用 Python 脚本（推荐）
-
-创建脚本 `preprocess_all_splits.py`：
-
+ 
 ```
 
 运行：
