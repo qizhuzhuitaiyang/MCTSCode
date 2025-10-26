@@ -1,0 +1,269 @@
+{
+  "diagnosis": {
+    "total_categories": 2760,
+    "vocab_size": 401,
+    "top_k": 400,
+    "coverage": "86.87%",
+    "total_records": 5049090,
+    "top_20_categories": [
+      {
+        "category": "250",
+        "count": 109468
+      },
+      {
+        "category": "428",
+        "count": 90768
+      },
+      {
+        "category": "272",
+        "count": 86126
+      },
+      {
+        "category": "401",
+        "count": 84557
+      },
+      {
+        "category": "V586",
+        "count": 82027
+      },
+      {
+        "category": "276",
+        "count": 72632
+      },
+      {
+        "category": "585",
+        "count": 67853
+      },
+      {
+        "category": "285",
+        "count": 67785
+      },
+      {
+        "category": "530",
+        "count": 63157
+      },
+      {
+        "category": "414",
+        "count": 60570
+      },
+      {
+        "category": "403",
+        "count": 58948
+      },
+      {
+        "category": "427",
+        "count": 57968
+      },
+      {
+        "category": "E11",
+        "count": 57445
+      },
+      {
+        "category": "Z79",
+        "count": 54768
+      },
+      {
+        "category": "V458",
+        "count": 46463
+      },
+      {
+        "category": "V158",
+        "count": 43764
+      },
+      {
+        "category": "Z87",
+        "count": 42091
+      },
+      {
+        "category": "Y92",
+        "count": 41792
+      },
+      {
+        "category": "I25",
+        "count": 40538
+      },
+      {
+        "category": "E785",
+        "count": 38390
+      }
+    ]
+  },
+  "procedure": {
+    "total_categories": 165,
+    "vocab_size": 151,
+    "top_k": 150,
+    "coverage": "99.99%",
+    "total_records": 904996,
+    "top_20_categories": [
+      {
+        "category": "38",
+        "count": 64511
+      },
+      {
+        "category": "39",
+        "count": 58684
+      },
+      {
+        "category": "00",
+        "count": 48053
+      },
+      {
+        "category": "88",
+        "count": 46671
+      },
+      {
+        "category": "99",
+        "count": 44510
+      },
+      {
+        "category": "96",
+        "count": 36757
+      },
+      {
+        "category": "02",
+        "count": 34256
+      },
+      {
+        "category": "0D",
+        "count": 32315
+      },
+      {
+        "category": "3E",
+        "count": 30486
+      },
+      {
+        "category": "45",
+        "count": 29586
+      },
+      {
+        "category": "5A",
+        "count": 25443
+      },
+      {
+        "category": "37",
+        "count": 23134
+      },
+      {
+        "category": "54",
+        "count": 21958
+      },
+      {
+        "category": "0W",
+        "count": 18942
+      },
+      {
+        "category": "86",
+        "count": 18049
+      },
+      {
+        "category": "51",
+        "count": 17325
+      },
+      {
+        "category": "81",
+        "count": 14538
+      },
+      {
+        "category": "0B",
+        "count": 14243
+      },
+      {
+        "category": "03",
+        "count": 13447
+      },
+      {
+        "category": "0F",
+        "count": 13100
+      }
+    ]
+  },
+  "drug": {
+    "vocab_size": 190,
+    "total_records": 11433262,
+    "current_prescriptions": 3296857,
+    "historical_drugs": 8136405,
+    "note": "\u7edf\u8ba1\u5305\u542b\u5f53\u524d\u5904\u65b9\u548c\u5386\u53f2\u7528\u836f\uff0c\u907f\u514d\u9057\u6f0f\u4f4e\u9891\u836f\u7269",
+    "top_20_drugs": [
+      {
+        "drug": "N02B",
+        "count": 422116
+      },
+      {
+        "drug": "B01A",
+        "count": 396202
+      },
+      {
+        "drug": "B05X",
+        "count": 381363
+      },
+      {
+        "drug": "A06A",
+        "count": 376255
+      },
+      {
+        "drug": "N02A",
+        "count": 357911
+      },
+      {
+        "drug": "A02B",
+        "count": 322569
+      },
+      {
+        "drug": "V06D",
+        "count": 254728
+      },
+      {
+        "drug": "A04A",
+        "count": 253144
+      },
+      {
+        "drug": "C10A",
+        "count": 240065
+      },
+      {
+        "drug": "V04C",
+        "count": 229331
+      },
+      {
+        "drug": "G01A",
+        "count": 228362
+      },
+      {
+        "drug": "C07A",
+        "count": 221782
+      },
+      {
+        "drug": "A12C",
+        "count": 202292
+      },
+      {
+        "drug": "N06A",
+        "count": 191417
+      },
+      {
+        "drug": "N05B",
+        "count": 186151
+      },
+      {
+        "drug": "A12B",
+        "count": 183972
+      },
+      {
+        "drug": "B05B",
+        "count": 172431
+      },
+      {
+        "drug": "J01D",
+        "count": 166434
+      },
+      {
+        "drug": "B03B",
+        "count": 163415
+      },
+      {
+        "drug": "J01X",
+        "count": 161436
+      }
+    ]
+  }
+}
